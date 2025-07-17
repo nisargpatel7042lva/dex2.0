@@ -9,7 +9,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>$(DEVELOPMENT_LANGUAGE)</string>
     <key>CFBundleDisplayName</key>
-    <string>Solana App Kit</string>
+    <string>dex2.0</string>
     <key>CFBundleExecutable</key>
     <string>$(EXECUTABLE_NAME)</string>
     <key>CFBundleIdentifier</key>
@@ -29,14 +29,13 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>solanaappkit</string>
-          <string>com.sendai.solanaappkit</string>
+          <string>com.hardikpandya33.dex2.x0</string>
         </array>
       </dict>
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>exp+solana-app-kit</string>
+          <string>exp+dex2.0</string>
         </array>
       </dict>
     </array>
@@ -61,8 +60,6 @@
     <string>Allow $(PRODUCT_NAME) to access your microphone</string>
     <key>NSPhotoLibraryUsageDescription</key>
     <string>We need access to your photos to let you pick images.</string>
-    <key>RCTRootViewBackgroundColor</key>
-    <integer>4278980634</integer>
     <key>UILaunchStoryboardName</key>
     <string>SplashScreen</string>
     <key>UIRequiredDeviceCapabilities</key>
@@ -77,6 +74,8 @@
     <array>
       <string>UIInterfaceOrientationPortrait</string>
       <string>UIInterfaceOrientationPortraitUpsideDown</string>
+      <string>UIInterfaceOrientationLandscapeLeft</string>
+      <string>UIInterfaceOrientationLandscapeRight</string>
     </array>
     <key>UISupportedInterfaceOrientations~ipad</key>
     <array>
