@@ -1,4 +1,4 @@
-package com.sendai.solanaappkit
+package com.nisargxplores.dex2.x0
 
 import android.app.Application
 import android.content.res.Configuration
